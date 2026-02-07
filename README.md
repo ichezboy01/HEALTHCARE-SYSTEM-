@@ -34,3 +34,5 @@ We welcome contributions to enhance the functionality of the Health Center Syste
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+the system also has an integrated ai system which is the systems ai receptionist that helps answer any quarries
